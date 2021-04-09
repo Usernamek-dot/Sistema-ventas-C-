@@ -1,0 +1,15 @@
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\bin\Debug\VentasSharp2021.exe.config
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\bin\Debug\VentasSharp2021.exe
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\bin\Debug\VentasSharp2021.pdb
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\bin\Debug\MySql.Data.dll
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.csprojAssemblyReference.cache
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.Form1.resources
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.Properties.Resources.resources
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.csproj.GenerateResource.cache
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.csproj.CoreCompileInputs.cache
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.csproj.CopyComplete
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.exe
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.pdb
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.frmMenuPrincipal.resources
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.frmProducto.resources
+C:\Users\micor\source\repos\VentasSharp2021\VentasSharp2021\obj\Debug\VentasSharp2021.frmFacturacionVentas.resources
